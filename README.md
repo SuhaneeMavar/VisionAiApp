@@ -1,16 +1,21 @@
-# google_ml_kit_example
 
-Demonstrates how to use the google_ml_kit plugin.
+# VisionAi
+ 
+Mobile app which identifies surrounding objects using the mobile's live camera and speaks out what the object is in 3 different languages (Gujarati, Hindi, and English)
 
-## Getting Started
+## Technologies used
 
-This project is a starting point for a Flutter application.
+Flutter, Google ML Kit
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Lessons Learned
+
+- Learned to anlalyse code.
+- Explored Machine Learning models and concepts
+
+<div>
+<img src="https://github.com/SuhaneeMavar/VisionAiApp/blob/main/AppSplashScreen.jpeg" width="284px" height="540">
+<img src="https://github.com/SuhaneeMavar/SuhaneeMavar/blob/main/VisionAiApp.gif" width="284px" height="540">
+</div>
