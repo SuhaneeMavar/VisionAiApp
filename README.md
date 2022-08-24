@@ -12,7 +12,7 @@ Flutter, Google ML Kit
 
 ## Lessons Learned
 
-- Learned to anlalyse code.
+- Learned to analise code.
 - Explored Machine Learning models and concepts
 
 <div>
